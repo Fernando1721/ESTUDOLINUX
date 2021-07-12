@@ -11,3 +11,7 @@ o comando ls(listar) permite exibir uma lista de arquivos em um
 diretório. Ele possui algumas flags(opções de comando).
 Ex.: exibir os arquivos e pastar, inclusive os ocultos
 ls -la 
+
+mkdir
+o comando cria diretorios. por isso seu nome é mkdir(make directory)
+ex.: mkdir dados 
