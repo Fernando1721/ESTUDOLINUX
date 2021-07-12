@@ -1,0 +1,7 @@
+comando para navegação entre diretório:
+cd 
+para abrir um diretório usamos o comando: cd e o nome do diretório 
+ex.: cd home -> abrindo a pasta home 
+
+pwd
+o comando pwd irá nos mostrar onde estamos, ou seja, em qual diretório você está.
