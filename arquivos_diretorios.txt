@@ -15,3 +15,12 @@ ls -la
 mkdir
 o comando cria diretorios. por isso seu nome é mkdir(make directory)
 ex.: mkdir dados 
+
+cp
+o comando cp(copy) é responsável por realizar uma cópia
+de arquivos ou diretorios 
+
+
+
+
+
